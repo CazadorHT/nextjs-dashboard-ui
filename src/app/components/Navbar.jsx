@@ -3,7 +3,6 @@ import Link from 'next/link'
 import logo from '../../../public/next.svg'
 import Image from 'next/image'
 
-
 function Navbar() {
   return (
     <div className='shadow-xl'>
